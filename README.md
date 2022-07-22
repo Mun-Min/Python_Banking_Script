@@ -1,8 +1,12 @@
 # Python Banking Script Application
 
-## <mark>Creating a python script that analyzes the financial records of your company</mark>
+<span style="color:white;font-weight:100;font-size:18px">
+   <mark>Creating a python script that analyzes the financial records of your company</mark>
+</span>
 
-#### **Program Tasks**:
+<span style="color:white;font-weight:100;font-size:15px">
+    <b>Program Tasks:</b>
+</span>
 
                                     Calculate each of the following: 
 

@@ -1,6 +1,6 @@
 # Python Banking Script Application
 
-<div style="background-color: #FFFF00; font-size:18px">Creating a python script that analyzes the financial records of a company</div>
+<div style="font-size:18px">Analyze the financial records of a company by creating a Python script that will pull information from a dataset and produce output</div>
 
 <br>
 
@@ -8,7 +8,7 @@
     <b>Program Tasks:</b>
 </span>
 
-                                    Calculate each of the following: 
+                                        Calculate each of the following: 
 
                     1. The total number of months included in the dataset 
                     2. The net total amount of Profit/Losses over the entire period
@@ -16,4 +16,4 @@
                     4. The greatest increase in profits over the entire period
                     5. The greatest decrease in losses over the entire period 
 
-<div style="background-color: #FFFF00; font-size:18px">Your final script should print the analysis to the terminal and export a text file with the results</div>
+<div style="font-size:18px">The final script should print the analysis to the terminal and export a text file with the results</div>

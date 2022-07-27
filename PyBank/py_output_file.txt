@@ -1,5 +1,5 @@
 Month Count: 86
 Profit/Losses: $38,382,578
 Average Change: $446,309.05
-Greatest Increase in Profits: Sep-2016, 999942
-Greatest Decrease in Profits: Apr-2010, -1022534
+Greatest Increase in Profits: Feb-2012 , $1,170,593
+Greatest Decrease in Profits: Sep-2013 , $-1,196,225
